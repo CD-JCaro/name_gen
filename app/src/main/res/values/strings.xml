@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DnD Name Generator</string>
+    <string name="generate">Generate Name</string>
+    <string name="country">Country</string>
+    <string name="race">Race</string>
+    <string name="gender">Gender</string>
+</resources>
